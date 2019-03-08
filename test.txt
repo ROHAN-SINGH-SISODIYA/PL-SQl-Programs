@@ -1,0 +1,345 @@
+    1  wget https:/dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    2  wget
+    3  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    4  gdebi google-chrome-stable_current_amd64.deb
+    5  gdebi
+    6  google-chrome
+    7  gdebi google-chrome-stable_current_amd64.deb;
+    8  apt-get update
+    9  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   10  gdebi google-chrome-stable_current_amd64.deb
+   11  apt-get install gdebi -y
+   12  cd desktop
+   13  cd Desktop
+   14  dpkg -i google-chrome-stable_current_amd64.deb
+   15  dpkg -i google-chrome-stable_current_amd64.deb.1
+   16  which google-chrome-stable
+   17  leafpad /usr/bin/google-chrome-stable
+   18  apt-get update
+   19  apt-get install putty
+   20  sudo apt-get install putty
+   21  apt-get update
+   22  apt-get install putty
+   23  apt-get
+   24  apt
+   25  ifconfig
+   26  leafpad /etc/apt/sources.list
+   27  apt-get update
+   28  apt-get install putty
+   29  apt-get install ssh
+   30  systemctl enable ssh
+   31  service ssh start
+   32  apt-get install ssh
+   33  apt-get
+   34  apt-get update
+   35  apt-get install putty
+   36  service --status-all
+   37  apt-get openssh-server
+   38  apt-get install openssh-server
+   39  service ssh start
+   40  service ssh status
+   41  ..cd
+   42  cd/etc/ssh
+   43  cd /etc/ssh
+   44  ls
+   45  nano sshd_config
+   46  service ssh restart
+   47  ssh-keygen -t rsa
+   48  ifconfig
+   49  cd Desktop
+   50  install putty.exe
+   51  apt-get install putty.exe
+   52  apt-get install putty
+   53  ifconfig
+   54  cd /etc/ssh
+   55  ifconfig
+   56  service --status-all
+   57  apt-getinstall openssh-server
+   58  apt-get install openssh-server
+   59  service ssh start
+   60  service ssh status
+   61  cd /etc/ssh
+   62  ls
+   63  nano sshd_config
+   64  ssh-keygen -t rsa
+   65  ifconfig
+   66  apt-get update
+   67  apt-get install putty
+   68  ssh @118.185.43.122
+   69  -l
+   70  l
+   71  ssh root@118.185.43.122
+   72  ssh user@118.185.43.122
+   73  ifconfig
+   74  ssh root@192.168.43.30
+   75  ifconfig
+   76  ssh root@192.168.43.30
+   77  ssh 0187cs161025@192.168.43.30
+   78  ssh 0187cs161025@118.185.43.122
+   79  ssh service start
+   80  ssh service restart
+   81  wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+   82  pt-get install gdebi -y
+   83  apt-get install gdebi -y
+   84  gdebi sublime-text_build-3047_amd64.deb
+   85  cd /etc/apt/
+   86  sudo nano sources.list
+   87  sudo apt-get update
+   88  wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+   89  apt-get install gdebi -y
+   90  sudo apt-get install gdebi
+   91  cd desktop
+   92  cd Desktop
+   93  install dpki_1.5_all.deb
+   94  install --help
+   95  install -t dpki_1.5_all.deb
+   96  install -T dpki_1.5_all.deb
+   97  install source dpki_1.5_all.deb
+   98  apt-get update
+   99  wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+  100  -apt-get install gdebi -y
+  101  apt
+  102  apt-get install gdebi -y
+  103  wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+  104  apt-get install gdebi
+  105  leafpad/etc/apt/sources.list
+  106  leafpad /etc/apt/sources.list
+  107  apt-get install # deb cdrom:[Debian GNU/Linux 7.0 _Kali_ - Official Snapshot i386 LIVE/INSTALL $
+  108  # deb cdrom:[Debian GNU/Linux 7.0 _Kali_ - Official Snapshot i386 LIVE/INSTALL $
+  109  ## Security updates
+  110  deb http://http.kali.org/ /kali main contrib non-free
+  111  deb http://http.kali.org/ /wheezy main contrib non-free
+  112  deb http://http.kali.org/kali kali-dev main contrib non-free
+  113  deb http://http.kali.org/kali kali-dev main/debian-installer
+  114  deb-src http://http.kali.org/kali kali-dev main contrib non-free
+  115  deb http://http.kali.org/kali kali main contrib non-free
+  116  deb http://http.kali.org/kali kali main/debian-installer
+  117  deb-src http://http.kali.org/kali kali main contrib non-free
+  118  deb http://security.kali.org/kali-security kali/updates main contrib non-free
+  119  leafpad /etc/apt/sources.list
+  120  wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+  121  sudo dpkg -i sublime-text_build-3047_amd64.deb
+  122  sudo dpkg -i sublime-text_build-3103_i386.deb
+  123  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
+  124  echo "deb http://repo.mongodb.org/apt/debian jessie/mongodb-org/4.0 main" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.0.list
+  125  echo "deb http://repo.mongodb.org/apt/debian stretch/mongodb-org/4.0 main" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.0.list
+  126  sudo apt-get update
+  127  sudo apt-get install -y mongodb-org
+  128  echo "mongodb-org hold" | sudo dpkg --set-selections
+  129  echo "mongodb-org-server hold" | sudo dpkg --set-selections
+  130  echo "mongodb-org-shell hold" | sudo dpkg --set-selections
+  131  echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+  132  echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+  133  sudo apt-get install libcurl3 openssl
+  134  sudo service mongod start
+  135  nmap -o 118.185.43.122
+  136  searchsploit windows
+  137  dnsenum sistec.ac.in
+  138  dnsmap sistec.ac.in
+  139  dnstracer sistec.ac.in
+  140  lbd sistec.ac.in
+  141  hping3 -h
+  142  hping3 sistec.ac.in -v
+  143  git clone https://github.com/wi-fi-analyzer/fluxion.git
+  144  cd fluxion
+  145  ls
+  146  ./fluxion.sh
+  147  ls
+  148  ./fluxion.sh
+  149  install
+  150  ./fluxion.sh
+  151  ls
+  152  ./fluxion.sh
+  153  airmon-ng check kill
+  154  airodump-ng wlan0
+  155  airpdump-ng -c 6 -bDC:1A:C5:65:35:A1  -w s94 wlan0
+  156  airpdump-ng -c 6 -bDC:1A:C5:65:35:A1  -w s94 wlano
+  157  airodump-ng -c 6 -b DC:1A:C5:65:35:A1  -w s94 wlan0
+  158  ping
+  159  ifconfig
+  160  netsh int 192.168.43.30 reset restlog.txt
+  161  netsh int 192.168.43.30 reset resetlog.txt
+  162  netsh int ip reset resetlog.txt
+  163  sudo apt-get update
+  164  sudo apt-get upgrade
+  165  sudo apt-get dist-upgrade
+  166  airmon-ng check kill
+  167  service network-manager restart
+  168  airmon-ng check kill
+  169  service network-manager restart
+  170  airmon-ng check kill
+  171  service network-manager restart
+  172  wget https://raw.githubusercontent.com/FluxionNetwork/fluxion/master/install/install.sh && bash install.sh
+  173  wget https://github.com/wi-fi-analyzer/fluxion.git
+  174  cd fluxion
+  175  ls
+  176  cd lib
+  177  ls
+  178  ./
+  179  ..
+  180  ..cd
+  181  .../
+  182  rm fluxion
+  183  cd fluxion
+  184  ls
+  185  rm docs
+  186  rm docs.txt
+  187  rm siteinstaller.py
+  188  ls
+  189  cd install
+  190  ls
+  191  ./remove.py
+  192  airmon-ng check
+  193  airmon-ng check kill
+  194  airmon-ng start wlan0
+  195  airmon-ng stop wlan0mon
+  196  service network-manager start
+  197  iwconfig
+  198  airmon-ng stop ath0
+  199  service network-manager start
+  200  sudo dhclient -r wlan0
+  201  ifdown wlan0 && ifup wlan0
+  202  aireplay-ng -0 05 -a 0A:25:25:C6:D5:E0  -c E4:5D:75:19:A1:D6
+  203  aireplay-ng -0 05 -a 0A:25:25:C6:D5:E0  -c E4:5D:75:19:A1:D6 wlan0
+  204  ifconfig eth0 down
+  205  ifconfig eth0 up
+  206  dhclient eth0
+  207  route -n
+  208  airmon-ng check kill
+  209  airodump-ng wlan0
+  210  airodump-ng -c 6 -b DA:32:E3:FA:12:17 -w s94 wlan
+  211  airodump-ng -c 6 -b B6:E3:F6:7C:18:07  -w s94 wla
+  212  airodump-ng check kill
+  213  airodump-ng -c 6 -b DA:32:E3:FA:12:17 -w s94 wlan0
+  214  airmon-ng check kill
+  215  airmon-ng start wlan0
+  216  service network-manager start
+  217  mv android-studio /opt
+  218  ./stdio.sh
+  219  ./studio.sh
+  220  ./studio
+  221  ./studio.sh
+  222  git clone https://aur.archlinux.org/android-sdk-build-tools-28.0.3.git
+  223  implementation 'com.jakewharton:butterknife:10.0.0'
+  224  cd Desktop
+  225  ls
+  226  chmod 775 xampp-linux-x64-7.3.1-0-installer.run
+  227  ./xampp-linux-x64-7.3.1-0-installer.run
+  228  cd /var/www/html/
+  229  vi hello.php
+  230  systemctl start mariadb
+  231  mysql
+  232  systemctl start apache
+  233  systemctl start apache2
+  234  mysql
+  235  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  236  mysql -u 0187cs161025 -h 172.18.2.2 -p
+  237  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  238  systemctl start mariadb
+  239  systemctl start apache2
+  240  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  241  mysql -u 0187cs161025 -h 172.18.2.2 -p
+  242  systemctl start mysql
+  243  systemctl start apache2
+  244  mysql -u 0187cs161025 -h 118.184.43.122 -p
+  245  systemctl start mysql
+  246  systemctl start apache2
+  247  ./studio.sh
+  248  systemctl start mariadb
+  249  systemctl start apache2
+  250  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  251  systemctl start mariadb
+  252  systemctl start apache2
+  253  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  254  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  255  ./studio.sh
+  256  sudo /opt/lampp/lampp start
+  257  ls
+  258  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  259  sudo /opt/lampp/lampp start
+  260  ls
+  261  sudo ./manager-linux.run
+  262  sudo /opt/lampp/
+  263  sudo /opt/lampp
+  264  cd /opt/lampp
+  265  ls
+  266  sudo ./manager-linux.run
+  267  sudo ./manager-linux-x64.run
+  268  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+  269  sudo apt-get update
+  270  sudo apt-get upgrade sublime-text
+  271  cd opt/lampp/
+  272  cd /opt/lampp/
+  273  ls
+  274  sudo ./manager-linux-x64.run
+  275  ifconfig
+  276  ./studio.sh
+  277  git init
+  278  git status
+  279  git add -A
+  280  git status
+  281  git commit -m "rohan"
+  282  git remote add origin https://github.com/Banesingh/androidproject1.git
+  283  git push origin master
+  284  /
+  285  ls
+  286  sudo ./manager-linux-x64.run
+  287  ./WinSCP-5.13.7-Setup.exe
+  288  sudo ./WinSCP-5.13.7-Setup.exe
+  289  sudo apt-get install wine
+  290  Download "http://winscp.net/download/winscp553.zip" 
+  291  apt-get install nautilus
+  292  ./studio.sh
+  293  ls
+  294  ./filezilla
+  295  ifconfig
+  296  ./studio.sh
+  297  ifconfig
+  298  ifconfig
+  299  ls
+  300  sudo ./manager-linux-x64.run
+  301  ./studio.sh
+  302  ls
+  303  sudo ./manager-linux-x64.run
+  304  ls
+  305  sudo ./manager-linux-x64.run
+  306  ./studio.sh
+  307  ls
+  308  sudo ./manager-linux-x64.run
+  309  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  310  ./studio.sh
+  311  mysql -u 0187cs161025 -h 118.185.43.122 -p
+  312  ls
+  313  sudo ./manager-linux-x64.run
+  314  git init
+  315  git status
+  316  git add -A
+  317  git status
+  318  git commit -m "tsunami"
+  319  git remote add origin git@github.com:Banesingh/Tsunami-Detection.git
+  320  git psuh origin master
+  321  git push origin master
+  322  ll
+  323  ls
+  324  ls -la
+  325  git add .
+  326  git commit -m "hello"
+  327  cd
+  328  git clone https://github.com/Banesingh/Tsunami-Detection.git
+  329  ll
+  330  ls
+  331  cd Tsunami-Detection/
+  332  ls
+  333  cd
+  334  git clone https://github.com/Banesingh/PL-SQl-Programs.git
+  335  ls
+  336  cd
+  337  ls
+  338  cd PL-SQl-Programs/
+  339  ll
+  340  ls
+  341  mkdir tst
+  342  touch kk kk1 kk2 kk3 kk4 kk5 kk6
+  343  ls
+  344  histor >>test.txt
+  345  history >>test.txt
